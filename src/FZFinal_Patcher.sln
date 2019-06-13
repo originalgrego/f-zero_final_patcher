@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FZFinal Patcher", "DesktopApp1\FZFinal Patcher.csproj", "{EC3AEDBE-203C-4951-A7D6-A6A05152348C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3AEDBE-203C-4951-A7D6-A6A05152348C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3AEDBE-203C-4951-A7D6-A6A05152348C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3AEDBE-203C-4951-A7D6-A6A05152348C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3AEDBE-203C-4951-A7D6-A6A05152348C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063FD0AA-6D83-4CD7-82EA-8B0C76BD130D}
+	EndGlobalSection
+EndGlobal
